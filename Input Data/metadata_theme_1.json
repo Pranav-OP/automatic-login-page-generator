@@ -1,0 +1,25 @@
+{
+    "theme_id": 1,
+    "body_details": {
+        "width": "1920px",
+        "height": "1080px",
+        "background": "#E8EAE0"
+    },
+    "img_details": {
+        "background": "url('./background.png')"
+    },
+    "box_details": {
+        "background": "#FFFFFF",
+        "border-radius": "10px",
+        "box-shadow": "0px 0px 10px rgba(99, 88, 220, 0.2)"
+    },
+    "button_details": {
+        "width": "350px",
+        "height": "50px",
+        "font-weight": "400",
+        "font-size": "14px",
+        "background": "#637A30",
+        "color": "#FFFFFF",
+        "line-height": "22px"
+    }
+}
